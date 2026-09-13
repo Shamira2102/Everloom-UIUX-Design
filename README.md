@@ -1,6 +1,3 @@
-<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/0e433bd6-b639-431a-b87e-7d66b23ed3ac" /># Everloom — Personal Memory Vault
-
-> **Weaving today's memories into tomorrow's legacy.**
 
 ## Overview
 
