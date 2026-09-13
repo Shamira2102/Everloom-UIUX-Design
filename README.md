@@ -1,0 +1,67 @@
+# Everloom — Personal Memory Vault
+
+> **Weaving today's memories into tomorrow's legacy.**
+
+## Overview
+
+Everloom is a UI/UX design concept for a personal digital memory vault that helps users preserve meaningful moments and organize them for future access.
+
+The concept explores how personal memories such as photos, videos, letters, and voice notes can be preserved through a thoughtful, privacy-conscious experience.
+
+## Problem
+
+Digital memories are often scattered across multiple platforms, making them difficult to organize, preserve, and intentionally pass on to others.
+
+Everloom explores a more meaningful and structured approach to long-term digital memory management.
+
+## Design Goals
+
+- Create a simple and intuitive memory-preservation experience
+- Organize different types of memories in one place
+- Provide clear control over recipients and access
+- Build trust through privacy-focused design
+- Create an emotionally engaging user experience
+
+## Design Process
+
+**Research → Information Architecture → User Flow → Wireframes → UI Design → Prototyping**
+
+## Key Features
+
+- Digital Memory Vault
+- Memory Timeline
+- Photo, Video, Letter & Voice Note Preservation
+- Recipient Management
+- Privacy & Access Controls
+- Interactive Prototype
+
+## Tools & Skills
+
+**Figma · UI/UX Design · User Research · Wireframing · Prototyping · Auto Layout**
+
+## Project Highlights
+
+### Digital Memory Vault
+*Add your screenshot here.*
+
+### Memory Timeline
+*Add your screenshot here.*
+
+### Recipient Management
+*Add your screenshot here.*
+
+### Interactive Prototype
+*Add your prototype preview here.*
+
+## Outcome
+
+Designed an end-to-end experience focused on privacy, emotional context, and long-term digital memory management.
+
+## Prototype
+
+**[View the Figma Prototype](YOUR_FIGMA_LINK)**
+
+## Designer
+
+**Shamira Shaheen**  
+Computer Science and Design Student
