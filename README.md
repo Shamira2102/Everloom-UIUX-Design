@@ -1,4 +1,4 @@
-# Everloom — Personal Memory Vault
+<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/0e433bd6-b639-431a-b87e-7d66b23ed3ac" /># Everloom — Personal Memory Vault
 
 > **Weaving today's memories into tomorrow's legacy.**
 
@@ -62,7 +62,7 @@ Designed an end-to-end experience focused on privacy, emotional context, and lon
 
 ## Prototype
 
-**[View the Figma Prototype](YOUR_FIGMA_LINK)**
+**[View the Figma Prototype](https://www.figma.com/design/jVeGFb1nhYtHJYQykhk675/Everloom---Personal-Memory-Vault-Application--UI-UX-Design-?node-id=0-1&t=Eom3q3YyquJ1fkXf-1)**
 
 ## Designer
 
