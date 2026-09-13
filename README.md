@@ -40,8 +40,20 @@ Everloom explores a more meaningful and structured approach to long-term digital
 **Figma · UI/UX Design · User Research · Wireframing · Prototyping · Auto Layout**
 
 ## Project Preview
+<p align="center">
+  <img src="1.%20Splash%20Page.png" width="45%">
+  <img src="2.%20Home%20page.png" width="45%">
+</p>
 
-![Everloom UI/UX Project](Project%20Screenshot.png)
+<p align="center">
+  <img src="3.%20Memory%20Page.png" width="45%">
+  <img src="4.%20Family%20Page.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="9.%20Vault%20Page.png" width="45%">
+  <img src="7.%20Photo%20%26%20Video%20Page.png" width="45%">
+</p>
 
 
 ## Outcome
