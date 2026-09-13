@@ -39,19 +39,10 @@ Everloom explores a more meaningful and structured approach to long-term digital
 
 **Figma · UI/UX Design · User Research · Wireframing · Prototyping · Auto Layout**
 
-## Project Highlights
+## Project Preview
 
-### Digital Memory Vault
-*Add your screenshot here.*
+![Everloom UI/UX Project](Project%20Screenshot.png)
 
-### Memory Timeline
-*Add your screenshot here.*
-
-### Recipient Management
-*Add your screenshot here.*
-
-### Interactive Prototype
-*Add your prototype preview here.*
 
 ## Outcome
 
