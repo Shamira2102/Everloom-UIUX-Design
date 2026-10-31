@@ -24,8 +24,8 @@ The concept explores how personal memories such as **photos, videos, letters, an
 
 ## 🎥 Demo & Prototype
 |---|---|
-| 🎬 **Prototype Walkthrough** | [▶ Watch Demo Video](https://drive.google.com/file/d/1c8oTnUATbje2XDJIZD_JWG7RIoeTMRKi/view?usp=drive_link) |
-| 🎨 **Interactive Prototype** | [🔗 View Figma Prototype](https://www.figma.com/design/jVeGFb1nhYtHJYQykhk675/Everloom---Personal-Memory-Vault-Application--UI-UX-Design-?node-id=0-1&t=Me10RORgMri8Xo5P-1) |
+🎬 **Prototype Walkthrough** | [▶ Watch Demo Video](https://drive.google.com/file/d/1c8oTnUATbje2XDJIZD_JWG7RIoeTMRKi/view?usp=drive_link) |
+🎨 **Interactive Prototype** | [🔗 View Figma Prototype](https://www.figma.com/design/jVeGFb1nhYtHJYQykhk675/Everloom---Personal-Memory-Vault-Application--UI-UX-Design-?node-id=0-1&t=Me10RORgMri8Xo5P-1) |
 
 ---
 
@@ -74,14 +74,6 @@ Research → Information Architecture → User Flow → Wireframes → UI Design
 
 ---
 
-## 🖼️ Project Preview
-
-<!-- Replace with your own screenshots after uploading them to the repo -->
-<!-- ![Everloom Preview](assets/preview.png) -->
-
-> 📌 Add screenshots of your key screens here (Home, Timeline, Recipient Management, Privacy Settings).
-
----
 
 ## 🛠️ Tools & Skills
 
@@ -98,7 +90,6 @@ Research → Information Architecture → User Flow → Wireframes → UI Design
 
 Designed an **end-to-end experience** focused on **privacy, emotional context, and long-term digital memory management**.
 
----
 
 ## 👩‍💻 Designer
 
