@@ -92,7 +92,6 @@ Designed an **end-to-end experience** focused on **privacy, emotional context, a
 
 
 ## 👩‍💻 Designer
-
 **Shamira Shaheen S** | Computer Science and Design Student | Sona College of Technology
 
 ---
