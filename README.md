@@ -91,7 +91,8 @@ Research → Information Architecture → User Flow → Wireframes → UI Design
 Designed an **end-to-end experience** focused on **privacy, emotional context, and long-term digital memory management**.
 
 
-## 👩‍💻 Designer
+### 👩‍💻 Designer
+
 **Shamira Shaheen S** | Computer Science and Design Student | Sona College of Technology
 
 ---
